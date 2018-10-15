@@ -1,9 +1,9 @@
 # liri-node-app
 13 Octubre
-In this command-line node app you can search data from movies, upcoming music concerts, songs, and excecuting a song search by linking (writting) the name from a txt file.
+In this command-line node app you can search data from movies, upcoming music concerts, songs, and excecuting a song track search from a txt file. 
 
 
-This app is using different API, such as spotify and OMB, and also is using node npm modules. 
+This app is using differents API, such as spotify and OMB, and also is using node npm modules. 
 
 To see in action, go to console and excecute:
 -UPCOMING CONCERTS`node liri.js concert-this <artist/band name here>`
